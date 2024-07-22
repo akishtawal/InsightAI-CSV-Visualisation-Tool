@@ -1,0 +1,12 @@
+streamlit
+langchain-cohere
+python-dotenv
+pandas
+numpy
+pandasai
+pandasai[langchain]
+matplotlib
+seaborn
+chardet
+tk 
+tkintertable
